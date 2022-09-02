@@ -1,1 +1,2 @@
 This is file 1
+This change is added as a part of resolving the first issue
